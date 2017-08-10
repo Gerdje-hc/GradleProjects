@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://xmlns.jcp.org/xml/ns/persistence" location="$USER_HOME$/Library/Caches/IdeaIC2017.1/extResources/a7356983_persistence_2_1.xsd" />
+  </component>
+</application>
